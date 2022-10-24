@@ -1,4 +1,4 @@
-x=153
+x=int(input())
 y=str(x)
 l=len(y)
 z=[]
